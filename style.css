@@ -3,7 +3,7 @@
     font-family: sans-serif;
 }
 *::-webkit-scrollbar{
-    displaly:none;
+    display:none;
 }
 body{
     width: 100%;
