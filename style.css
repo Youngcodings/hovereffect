@@ -2,6 +2,9 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+*::-webkit-scrollbar{
+    displaly:none;
+}
 body{
     width: 100%;
     height: 100vh;
